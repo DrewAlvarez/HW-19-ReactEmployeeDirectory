@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "position": "Manager",
+        "department": "Administration",
+        "email": "jSmith@test.com"
+    },
+    {
+        "id": 2,
+        "name": "Martha Wagner",
+        "position": "Assistant Manager",
+        "department": "Administration",
+        "email": "mWagner@test.com"
+    },
+    {
+        "id": 3,
+        "name": "Miguel Sanchez",
+        "position": "Developer",
+        "department": "Development Team",
+        "email": "mSanchez@test.com"
+    },
+    {
+        "id": 4,
+        "name": "Jamal Crown",
+        "position": "Developer",
+        "department": "Development Team",
+        "email": "jCrown@test.com"
+    },
+    {
+        "id": 5,
+        "name": "Claire Rose",
+        "position": "Developer",
+        "department": "Development Team",
+        "email": "cRose@test.com"
+    },
+    {
+        "id": 6,
+        "name": "Tianna Maxine",
+        "position": "Intern",
+        "department": "Administration",
+        "email": "tMaxine@test.com"
+    }
+]
