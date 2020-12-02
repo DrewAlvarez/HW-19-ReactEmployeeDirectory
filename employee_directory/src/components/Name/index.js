@@ -3,7 +3,11 @@ import "../../styles/bootstrap.min.css";
 
 function Name(props) {
     return (
-    <li className="list-group-item bg-success">{props.empName}</li>
+      <button 
+        type="button" 
+        className={props.class} 
+        onClick={props.handleSingleEmployee}
+        style={{width: "80%", marginBottom: ".5rem"}}>{props.empName}</button>
     );
   }
   
