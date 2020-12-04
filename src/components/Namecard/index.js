@@ -1,7 +1,4 @@
 import React from "react";
-import "../../styles/bootstrap.min.css";
-// import Name from "../Name";
-// import employee from "../../employees.json"
 
 function NameCard(props) {
   return (

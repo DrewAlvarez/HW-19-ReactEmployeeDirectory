@@ -1,9 +1,8 @@
 import React from "react";
-import "../../styles/bootstrap.min.css";
 
 function Header() {
   return (
-    <nav className="navbar navbar-dark bg-primary">
+    <nav className="navbar navbar-dark bg-primary" style={{borderRadius: ".25rem", marginBottom: "1rem"}}>
         <span className="navbar-brand mb-0 h1">Employee Directory</span>
     </nav>
   );

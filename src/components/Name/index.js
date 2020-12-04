@@ -1,5 +1,4 @@
 import React from "react";
-import "../../styles/bootstrap.min.css";
 
 function Name(props) {
     return (

@@ -55,12 +55,12 @@ class  MainContainer extends Component {
 
     render() {
         return (
-            <div>
-                <Header />
+            <div className="bg-light">
                 <main className="container" style={{paddingTop: "1rem"}}>
+                    <Header />
                     <div className="row">
                         <NameCard>
-                            <div className="card-header" style={{textAlign: "center"}}>Choose to View Indivual Employee</div>
+                            <div className="card-header" style={{textAlign: "center"}}>Click for View</div>
                             <div className="card-body" style={{textAlign: "center"}}>
                                 {employee.map(emp => (
                                     <Name empName={emp.name} class="btn btn-secondary" handleSingleEmployee={this.handleSingleEmployee}/>
