@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HW-19-ReactEmployeeDirectory/static/css/main.29a4a6d3.chunk.css",
-    "main.js": "/HW-19-ReactEmployeeDirectory/static/js/main.f8473e5d.chunk.js",
-    "main.js.map": "/HW-19-ReactEmployeeDirectory/static/js/main.f8473e5d.chunk.js.map",
+    "main.css": "/HW-19-ReactEmployeeDirectory/static/css/main.a867c882.chunk.css",
+    "main.js": "/HW-19-ReactEmployeeDirectory/static/js/main.7ea68645.chunk.js",
+    "main.js.map": "/HW-19-ReactEmployeeDirectory/static/js/main.7ea68645.chunk.js.map",
     "runtime-main.js": "/HW-19-ReactEmployeeDirectory/static/js/runtime-main.d997301c.js",
     "runtime-main.js.map": "/HW-19-ReactEmployeeDirectory/static/js/runtime-main.d997301c.js.map",
     "static/js/2.90ea3983.chunk.js": "/HW-19-ReactEmployeeDirectory/static/js/2.90ea3983.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cac69008.chunk.js": "/HW-19-ReactEmployeeDirectory/static/js/3.cac69008.chunk.js",
     "static/js/3.cac69008.chunk.js.map": "/HW-19-ReactEmployeeDirectory/static/js/3.cac69008.chunk.js.map",
     "index.html": "/HW-19-ReactEmployeeDirectory/index.html",
-    "static/css/main.29a4a6d3.chunk.css.map": "/HW-19-ReactEmployeeDirectory/static/css/main.29a4a6d3.chunk.css.map",
+    "static/css/main.a867c882.chunk.css.map": "/HW-19-ReactEmployeeDirectory/static/css/main.a867c882.chunk.css.map",
     "static/js/2.90ea3983.chunk.js.LICENSE.txt": "/HW-19-ReactEmployeeDirectory/static/js/2.90ea3983.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d997301c.js",
     "static/js/2.90ea3983.chunk.js",
-    "static/css/main.29a4a6d3.chunk.css",
-    "static/js/main.f8473e5d.chunk.js"
+    "static/css/main.a867c882.chunk.css",
+    "static/js/main.7ea68645.chunk.js"
   ]
 }
