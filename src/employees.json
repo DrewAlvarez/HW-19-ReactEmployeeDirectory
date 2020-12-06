@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "name": "John Smith",
+        "firstName": "John",
+        "lastName": "Smith",
         "position": "Manager",
         "pay": 75000,
         "department": "Administration",
@@ -9,7 +10,8 @@
     },
     {
         "id": 2,
-        "name": "Martha Wagner",
+        "firstName": "Martha",
+        "lastName": "Wagner",
         "position": "Assistant Manager",
         "pay": 45000,
         "department": "Administration",
@@ -17,7 +19,8 @@
     },
     {
         "id": 3,
-        "name": "Miguel Sanchez",
+        "firstName": "Miguel",
+        "lastName": "Sanchez",
         "position": "Developer",
         "pay": 52700,
         "department": "Development Team",
@@ -25,7 +28,8 @@
     },
     {
         "id": 4,
-        "name": "Jamal Crown",
+        "firstName": "Jamal",
+        "lastName": "Crown",
         "position": "Developer",
         "pay": 55200,
         "department": "Development Team",
@@ -33,7 +37,8 @@
     },
     {
         "id": 5,
-        "name": "Claire Rose",
+        "firstName": "Claire",
+        "lastName": "Rose",
         "position": "Developer",
         "pay": 59300,
         "department": "Development Team",
@@ -41,7 +46,8 @@
     },
     {
         "id": 6,
-        "name": "Tianna Maxine",
+        "firstName": "Tianna",
+        "lastName": "Maxine",
         "position": "Intern",
         "pay": 0,
         "department": "Administration",

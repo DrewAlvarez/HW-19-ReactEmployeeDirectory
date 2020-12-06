@@ -1,21 +1,34 @@
 import React from "react";
 
-function EmployeeCard(props) {
-    return (
-        <section className="col-9">
-            {props.results.map(result => (
-                <div className="card" style={{marginBottom: "1rem"}}>
-                <div className="card-body">
-                  <h4 className="card-title">{result.name}</h4>
-                  <p className="card-text"><strong>Position: </strong>{result.position}</p>
-                  <p className="card-text"><strong>Pay: </strong>{result.pay}</p>
-                  <p className="card-text"><strong>Department: </strong>{result.department}</p>
-                  <p className="card-text"><strong>Email: </strong>{result.email}</p>
-                </div>
-              </div>
-            ))}
-        </section>
-    )
-}
+function EmployeeTable(props){
+  return (
+    <div className="col-9">
+      <table className="table table-active">
+        <thead>
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Email</th>
+              <th scope="col">Department</th>
+              <th scope="col">Position</th>
+              <th scope="col">Pay</th>
+              <th scope="col">ID</th>
+            </tr>
+        </thead>
+        <tbody>
+          {props.results.map(result => (
+            <tr className="table-light">
+              <th scope="row">{result.firstName} {result.lastName}</th>
+              <td>{result.email}</td>
+              <td>{result.department}</td>
+              <td>{result.position}</td>
+              <td>{result.pay}</td>
+              <td>{result.id}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
 
-export default EmployeeCard;
+    </div>
+  )
+}
+export default EmployeeTable;

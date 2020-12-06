@@ -5,7 +5,7 @@ function Name(props) {
       <button 
         type="button" 
         className={props.class} 
-        onClick={props.handleSingleEmployee}
+        onClick={props.handleClick}
         style={{width: "80%", marginBottom: ".5rem"}}>{props.empName}</button>
     );
   }
